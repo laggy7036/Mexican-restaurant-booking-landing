@@ -1,5 +1,5 @@
-# Mexican-restaurant-booking-landing
-Initial mexican Resturant booking page, First ever coding project 
+<--# Mexican-restaurant-booking-landing
+Initial mexican Resturant booking page, First ever coding project--> 
 
 <!DOCTYPE html>
 <html lang="en">
