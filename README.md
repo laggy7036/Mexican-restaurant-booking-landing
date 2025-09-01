@@ -1,7 +1,7 @@
 <--# Mexican-restaurant-booking-landing
 Initial mexican Resturant booking page, First ever coding project--> 
 
-<!DOCTYPE html>
+<--!DOCTYPE html-->
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
